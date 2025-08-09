@@ -1,0 +1,32 @@
+Trader Behavior Insights – Summary
+
+This analysis explores how Bitcoin market sentiment, measured by the Fear & Greed Index, correlates with trader performance on Hyperliquid.
+
+Key Findings:
+1. Average Closed PnL:
+   - Highest during Greed sentiment phases.
+   - Lowest during Extreme Fear phases.
+
+2. Win Rate:
+   - Long positions perform better in Greed.
+   - Short positions perform better in Fear.
+
+3. Leverage Usage:
+   - Significantly higher in Greed phases.
+   - Higher leverage correlates with greater PnL volatility.
+
+4. Trade Volume:
+   - Spike in trading activity during Greed phases.
+   - Reduced volume during Extreme Fear.
+
+5. Sentiment Shifts:
+   - Transitions from Fear to Greed often precede increases in average PnL.
+   - Rapid sentiment changes can increase both risk and opportunity.
+
+Strategic Implications:
+- Use sentiment as an additional signal for position sizing and trade direction.
+- In Greed phases, focus on long positions but manage higher risk due to leverage spikes.
+- In Fear phases, short positions may offer better returns.
+- Avoid over-leveraging during Extreme Fear to reduce drawdowns.
+
+End of Summary
